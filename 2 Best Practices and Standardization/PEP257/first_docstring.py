@@ -1,0 +1,3 @@
+def my_function():
+    """I'am a docstring"""
+    ...
